@@ -25,4 +25,4 @@ Through our data analysis and modeling efforts, we successfully developed a stat
 - Simple Linear Regression is suitable for predicting a quantitative dependent variable.
 - Model evaluation, including visualization, ensures model accuracy.
 
-This project demonstrates your ability to apply statistical analysis and modeling techniques to real-world data, making it a valuable asset for potential investors or stakeholders.
+This project demonstrates the ability to apply statistical analysis and modeling techniques to real-world data, making it a valuable asset for potential investors or stakeholders.
